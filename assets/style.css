@@ -59,6 +59,10 @@ a {
   font-size: 20px;
 }
 
+a:hover {
+  color: #5c4043;
+}
+
 /* Makes h2 font bigger for better visibility */
 h2 {
   text-align: center;
