@@ -22,7 +22,6 @@ h1 {
 
 /* Removed traditional link styling */
 a {
-  font-weight: bold;
   text-decoration: none;
   color: var(--pharlap);
   font-size: 20px;
