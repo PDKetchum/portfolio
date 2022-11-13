@@ -11,11 +11,9 @@ I made sure to include in my page:
 - Previous applications built by me
 - Contact information
 
-I learned how wireframing helps in designing a web page from scratch.
-
 ## Installation:
 
-1. `git clone git@github.com:PDKetchum/module-2-professional-portfolio.git`
+1. `git clone git@github.com:PDKetchum/portfolio.git`
 2. Open `index.html`
 
 Hosted: https://pdketchum.github.io/portfolio/
