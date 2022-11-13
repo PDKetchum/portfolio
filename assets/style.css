@@ -12,6 +12,7 @@ body {
   background-color: var(--apricotPeach);
   font-family: "Lucida Console", "Courier New", monospace;
   color: var(--Pharlap);
+  margin: 20px;
 }
 
 /* Adds border around header and sets display to flex so it resizes appropriately */
@@ -129,8 +130,8 @@ h2 {
 
 /* Sizes images in contacts */
 .contactSection .contactIcon {
-  height: 30px;
-  width: 30px;
+  height: 40px;
+  width: 40px;
   margin: 10px;
   display: flex;
 }
